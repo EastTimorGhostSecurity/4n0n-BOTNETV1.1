@@ -1,0 +1,8 @@
+# config.py
+KEY = b'\x1a\x2b\x3c\x4d\x5e\x6f\x70\x81\x92\xa3\xb4\xc5\xd6\xe7\xf8\x09\x1a\x2b\x3c\x4d\x5e\x6f\x70\x81\x92\xa3\xb4\xc5\xd6\xe7\xf8\x09'
+C2_SERVER_IP = '192.168.110.225' 
+C2_SERVER_PORT = 9999 
+DEFAULT_TARGET_IP = '103.138.143.34'
+DEFAULT_TARGET_PORT = 80 
+BOT_PACKET_RATE = 10 
+BOT_MAX_THREADS = 5 
