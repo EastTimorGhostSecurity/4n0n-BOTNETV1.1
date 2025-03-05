@@ -1,4 +1,4 @@
-🚀 Botnet DDoS with C2 Server 🚀
+🚀 4n0n-BOTNETV1.1 DDoS with C2 Server 🚀
     
     This project is a simple implementation of a Botnet DDoS with a Command and Control (C2) Server. The bot connects to the C2 server and receives commands to launch DDoS attacks on specified targets.
 
