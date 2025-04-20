@@ -1,18 +1,18 @@
 🚀 4n0n-BOTNETV1.1 DDoS with C2 Server 🚀
     
-    This project is a simple implementation of a Botnet DDoS with a Command and Control (C2) Server. The bot connects to the C2 server and receives commands to launch DDoS attacks on specified targets.
+This project is a simple implementation of a Botnet DDoS with a Command and Control (C2) Server. The bot connects to the C2 server and receives commands to launch DDoS attacks on specified targets.
 
 📋 Features
 
-    C2 Server: Controls the bot and sends attack commands.
+C2 Server: Controls the bot and sends attack commands.
 
-    Bot: Receives commands from the C2 server and performs DDoS attacks.
+Bot: Receives commands from the C2 server and performs DDoS attacks.
 
-    Encryption: Communication between the C2 server and bot is encrypted using AES.
+Encryption: Communication between the C2 server and bot is encrypted using AES.
 
-    Multi-Platform: Works on Linux, Windows, macOS, and Termux.
+Multi-Platform: Works on Linux, Windows, macOS, and Termux.
 
-    Stylish Interface: Uses the rich library for an attractive terminal display.
+Stylish Interface: Uses the rich library for an attractive terminal display.
 
 🛠️ Installation
 
