@@ -19,7 +19,7 @@ Stylish Interface: Uses the rich library for an attractive terminal display.
 ![License](https://img.shields.io/badge/License-Private-red?style=for-the-badge)
 ![Author](https://img.shields.io/badge/Author-EastTimorGhostSecurity-green?style=for-the-badge)
 
-![My Photo](./foto.png)
+![My Gif](./Botnet.gif)
 
 🛠️Install Requirements
     
