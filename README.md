@@ -17,7 +17,7 @@ Stylish Interface: Uses the rich library for an attractive terminal display.
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)
 ![Status](https://img.shields.io/badge/Status-Active-yellow?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-Private-red?style=for-the-badge)
-![Author](https://img.shields.io/badge/Contributors-EastTimorGhostSecurity-green?style=for-the-badge)
+![Author](https://img.shields.io/badge/Author-EastTimorGhostSecurity-green?style=for-the-badge)
 
 ![My Photo](./foto.png)
 
